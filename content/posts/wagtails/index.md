@@ -31,6 +31,4 @@ The picture of the Citrine Wagtail was at that time the first observation in Nor
 
 ### Grey wagtail
 
-{{< figure src="/images/wagtails/_DSC4779_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
 {{< figure src="/images/wagtails/_DSC4786_DxO.jpg" position="center" style="border-radius: 8px;" >}}

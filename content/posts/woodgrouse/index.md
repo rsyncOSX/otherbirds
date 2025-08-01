@@ -16,8 +16,4 @@ Photos of the Wood Grouse is taken close to Elverum (Deset, Rena) in South Norwa
 
 {{< figure src="/images/woodgrouse/_DSC2905_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/woodgrouse/_DSC2274_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
 {{< figure src="/images/woodgrouse/_DSC1968_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/woodgrouse/_DSC1861_DxO.jpg" position="center" style="border-radius: 8px;" >}}

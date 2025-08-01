@@ -18,9 +18,6 @@ Seabirds.
 ### Common tern
 
 {{< figure src="/images/seabirds/_DSC8739_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/seabirds/_DSC8802_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/seabirds/_DSC8803_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/seabirds/_DSC8805_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Black-headed gull
 

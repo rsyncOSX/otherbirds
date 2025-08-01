@@ -23,11 +23,9 @@ Black woodpecker, European green woodpecker, Lesser spotted woodpecker, Great sp
 
 ### Black woodpecker
 
-{{< figure src="/images/woodpeckers/_DSC0842_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/woodpeckers/DSC03394_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 {{< figure src="/images/woodpeckers/_DSC0846_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-
-{{< figure src="/images/woodpeckers/DSC03394_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 ### Great spotted woodpecker
 

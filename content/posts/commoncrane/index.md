@@ -16,5 +16,3 @@ Some Common Cranes.
 
 {{< figure src="/images/commoncrane/DSC08727_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/commoncrane/_DSC7417_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/commoncrane/_DSC7439_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/commoncrane/_DSC2109_DxO.jpg" position="center" style="border-radius: 8px;" >}}
