@@ -1,0 +1,5 @@
+git submodule add https://github.com/hugo-fixit/FixIt.git themes/FixIt
+git submodule update --remote --merge
+git submodule update --init --recursive
+
+rm -rf public resources
