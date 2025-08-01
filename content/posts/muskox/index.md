@@ -5,7 +5,10 @@ date = "2024-04-20"
 tags = ["muskox"]
 categories = ["animal"]
 +++
+
 All photos of the muskox were taken in Dovre, Norway, one of the few places in the world where they live.
+
+<!--more-->
 
 All but two photos of Muskox are of bulls, some young, about 3 years old, and some old bulls. The cub is about 5-6 months old. The last
 photo is of a cow. You may see the difference in their horns. Old bull's horns cover most of the forehead. On young bulls, their horns

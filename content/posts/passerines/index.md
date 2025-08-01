@@ -8,6 +8,8 @@ tags = ["passerine"]
 Some other passerine birds. The coldcrest is the smallest European bird. It weights about 5g,
 and it is constantly on the move searching for insects.
 
+<!--more-->
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Regulus regulus | [Goldcrest](https://en.wikipedia.org/wiki/Goldcrest) |  [Fuglekonge](https://no.wikipedia.org/wiki/Fuglekonge) |

@@ -46,7 +46,7 @@ enableEmoji = true
       # LOGO 的 URL
       logo = ""
       # title name
-      name = "Some birds of prey"
+      name = "Other birds"
 
   # Footer config
   [params.footer]

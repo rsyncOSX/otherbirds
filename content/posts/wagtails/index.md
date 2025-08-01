@@ -8,6 +8,8 @@ tags = ["wagtail"]
 Western yellow wagtail,  White wagtail, Citrine wagtail, Grey wagtail. The Citrine Wagtail is not seen often in Norway.
 The picture of the Citrine Wagtail was at that time the first observation in Norway.
 
+<!--more-->
+
 | Latin      | UK  | Norwegian |
 | --------- |  --------- |    --------- |
 | Motacilla flava | [Western yellow wagtail ](https://en.wikipedia.org/wiki/Western_yellow_wagtail) |  [Gulerle ](https://no.wikipedia.org/wiki/Gulerle) |

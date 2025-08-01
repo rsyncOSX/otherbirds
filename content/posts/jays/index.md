@@ -7,6 +7,8 @@ tags = ["jay"]
 
 Some jay birds.
 
+<!--more-->
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Perisoreus infaustus | [Siberian jay](https://en.wikipedia.org/wiki/Siberian_jay) |  [Lavskrike](https://no.wikipedia.org/wiki/Lavskrike) |

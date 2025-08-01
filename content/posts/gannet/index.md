@@ -7,6 +7,8 @@ tags = ["gannet","seabird"]
 
 Northern  Gannet.
 
+<!--more-->
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Morus bassanus | [Northern gannet](https://en.wikipedia.org/wiki/Northern_gannet) | [Havsule](https://no.wikipedia.org/wiki/Havsule) |

@@ -7,6 +7,8 @@ tags = ["cormorant","seabird"]
 
 Cormorant.
 
+<!--more-->
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Phalacrocorax carbo | [Great Cormorant](https://en.wikipedia.org/wiki/Great_cormorant) | [Storskarv](https://no.wikipedia.org/wiki/Storskarv) |

@@ -4,7 +4,10 @@ title = "Finches"
 date = "2024-04-22"
 tags = ["finch"]
 +++
+
 Some finches.
+
+<!--more-->
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |

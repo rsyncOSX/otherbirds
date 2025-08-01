@@ -7,6 +7,8 @@ tags = ["singers"]
 
 Singers.
 
+<!--more-->
+
 | Latin      | UK  | Norwegian |
 | --------- |  --------- |    --------- |
 | Phylloscopus trochilus | [Willow warbler](https://en.wikipedia.org/wiki/Willow_warbler) |  [Løvsanger ](https://no.wikipedia.org/wiki/Løvsanger) |

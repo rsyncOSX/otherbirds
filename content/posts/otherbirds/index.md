@@ -7,6 +7,8 @@ tags = ["blackbird", "nutcracker", "heron", "swan"]
 
 Some other birds.
 
+<!--more-->
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 |Turdus merula | [Common blackbird](https://en.wikipedia.org/wiki/Common_blackbird) |  [Svarttrost](https://no.wikipedia.org/wiki/Svarttrost) |

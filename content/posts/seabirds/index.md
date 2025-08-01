@@ -7,6 +7,8 @@ tags = ["seabird","tern","oystercatcher"]
 
 Seabirds.
 
+<!--more-->
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Sterna hirundos  |  [Common tern](https://en.wikipedia.org/wiki/Common_tern) | [Makrellterne](https://no.wikipedia.org/wiki/Makrellterne)    |

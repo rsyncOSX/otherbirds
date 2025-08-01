@@ -4,7 +4,9 @@ title = "All birds & animals"
 date = "2025-06-18"
 +++
 
-On this page, a comprehensive list of all birds is listed.
+On this page, a comprehensive list of all birds I have photographed.
+
+<!--more-->
 
 ### Eagle (2)
 
@@ -30,7 +32,6 @@ On this page, a comprehensive list of all birds is listed.
 | Circus cyaneus |  [Hen harrier](https://en.wikipedia.org/wiki/Hen_harrier) |  [Myrhauk](https://no.wikipedia.org/wiki/Myrhauk) |
 | Astur gentilis |  [Eurasian goshawk](https://en.wikipedia.org/wiki/Eurasian_goshawk) | [Hønsehauk](https://no.wikipedia.org/wiki/Hønsehauk) |
 
-
 ### Owls (5)
 
 | Latin                 | UK                                                                     | Norwegian                                              |
@@ -40,7 +41,6 @@ On this page, a comprehensive list of all birds is listed.
 | Asio flammeus         | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
 | Strix aluco           | [Tawny owl](https://en.wikipedia.org/wiki/Tawny_owl)                   | [Kattugle](https://no.wikipedia.org/wiki/Kattugle)     |
 | Glaucidium passerinum | [Eurasian pygmy owl](https://en.wikipedia.org/wiki/Eurasian_pygmy_owl) | [Spurveugle](https://no.wikipedia.org/wiki/Spurveugle) |
-
 
 ### Flycatchers (6)
 
@@ -53,7 +53,6 @@ On this page, a comprehensive list of all birds is listed.
 | Saxicola rubicola | [European stonechat](https://en.wikipedia.org/wiki/European_stonechat) |  [Svartstrupe](https://no.wikipedia.org/wiki/Svartstrupe) |
 | M⁠uscicapa striata | [Spotted flycatcher](https://en.wikipedia.org/wiki/Spotted_flycatcher) |  [Gråfluesnapper](https://no.wikipedia.org/wiki/Gråfluesnapper) |
 
-
 ### Divers (5)
 
 | Latin      | UK | Norwegian |
@@ -64,14 +63,11 @@ On this page, a comprehensive list of all birds is listed.
 | Mergus merganser  | [Common merganser](https://en.wikipedia.org/wiki/Common_merganser) |   [Laksand](https://no.wikipedia.org/wiki/Laksand) |
 | Mergus serrator  |  [Red-breasted merganser](https://en.wikipedia.org/wiki/Red-breasted_merganser) |  [Siland](https://no.wikipedia.org/wiki/Siland) |
 
-
 ### Buzzard (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Buteo buteo |  [Common buzzard](https://en.wikipedia.org/wiki/Common_buzzard) |  [Musvåk](https://no.wikipedia.org/wiki/Musv%C3%A5k) |
-
-
 
 ### Waders (11)
 
@@ -89,14 +85,11 @@ On this page, a comprehensive list of all birds is listed.
 | Tringa glareola | [Wood sandpipe](https://en.wikipedia.org/wiki/Wood_sandpiper) |  [Grønnstilk](https://no.wikipedia.org/wiki/Grønnstilk) |
 | Vanellus vanellus | [Northern lapwing](https://en.wikipedia.org/wiki/Northern_lapwing) |  [Vipe](https://no.wikipedia.org/wiki/Vipe) |
 
-
-
 ### Dipper (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Cinclus cinclus | [White-throated dipper](https://en.wikipedia.org/wiki/White-throated_dipper) |  [Fossekall](https://no.wikipedia.org/wiki/Fossekall) |
-
 
 ### Seabirds (3)
 
@@ -105,7 +98,6 @@ On this page, a comprehensive list of all birds is listed.
 | Sterna hirundos  |  [Common tern](https://en.wikipedia.org/wiki/Common_tern) | [Makrellterne](https://no.wikipedia.org/wiki/Makrellterne)    |
 | Haematopus ostralegus  |  [Eurasian oystercatcher](https://en.wikipedia.org/wiki/Eurasian_oystercatcher) | [Tjeld](https://no.wikipedia.org/wiki/Tjeld)    |
 | Chroicocephalus ridibundus | [Black-headed gull](https://en.wikipedia.org/wiki/Black-headed_gull) | [Hettemåke](https://no.wikipedia.org/wiki/Hettem%C3%A5ke) |
-
 
 ### Cormorant (2)
 
@@ -120,7 +112,6 @@ On this page, a comprehensive list of all birds is listed.
 | --------- |  --------- |    --------- |
 | Morus bassanus | [Northern gannet](https://en.wikipedia.org/wiki/Northern_gannet) | [Havsule](https://no.wikipedia.org/wiki/Havsule) |
 
-
 ### Wagtails (4)
 
 | Latin      | UK  | Norwegian |
@@ -130,13 +121,11 @@ On this page, a comprehensive list of all birds is listed.
 | Motacilla citreola | [Citrine wagtail](https://en.wikipedia.org/wiki/Citrine_wagtail) |  [Sitronerle ](https://no.wikipedia.org/wiki/Sitronerle) |
 | Motacilla cinerea | [Grey wagtail](https://en.wikipedia.org/wiki/Grey_wagtail) | [Vintererle ](https://no.wikipedia.org/wiki/Vintererle) |
 
-
 ### Puffin (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Fratercula arctica | [Atlantic puffin](https://en.wikipedia.org/wiki/Atlantic_puffin) |  [Lunde (fugl)](https://no.wikipedia.org/wiki/Lunde_(fugl)) |
-
 
 ### Grouse (2)
 
@@ -144,7 +133,6 @@ On this page, a comprehensive list of all birds is listed.
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
 | Tetrao urogallus        | [Wood Grouse](https://en.wikipedia.org/wiki/Western_capercaillie)  | [Tiur, storfugl](https://no.wikipedia.org/wiki/Storfugl) |
 | Lyrurus tetrix        | [Black Grouse](https://en.wikipedia.org/wiki/Black_grouse)             | [Orrfugl](https://no.wikipedia.org/wiki/Orrfugl)        |
-
 
 ### Passerines (8)
 
@@ -159,13 +147,11 @@ On this page, a comprehensive list of all birds is listed.
 | Troglodytes troglodytes | [Eurasian wren](https://en.wikipedia.org/wiki/Eurasian_wren) |  [Gjerdesmett](https://no.wikipedia.org/wiki/Gjerdesmett) |
 | Bombycilla garrulus | [Bohemian waxwing](https://en.wikipedia.org/wiki/Bohemian_waxwing) |  [Sidensvans](https://no.wikipedia.org/wiki/Sidensvans) |
 
-
 ### Plover (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Pluvialis apricaria | [European golden plover](https://en.wikipedia.org/wiki/European_golden_plover) |  [Heilo](https://no.wikipedia.org/wiki/Heilo) |
-
 
 ### Other birds (4)
 
@@ -175,7 +161,6 @@ On this page, a comprehensive list of all birds is listed.
 | Ardea cinerea | [Grey heron](https://en.wikipedia.org/wiki/Grey_heron) |  [Gråhegre](https://no.wikipedia.org/wiki/Gråhegre) |
 | Nucifraga caryocatactes | [Eurasian nutcracker](https://en.wikipedia.org/wiki/Spotted_nutcracker) |  [Nøttekråke](https://no.wikipedia.org/wiki/Nøttekråke) |
 | Cygnus cygnus | [Whooper swan](https://en.wikipedia.org/wiki/Whooper_swan) |  [Sangsvane](https://no.wikipedia.org/wiki/Sangsvane) |
-
 
 ### Woodpeckers (5)
 
@@ -187,7 +172,6 @@ On this page, a comprehensive list of all birds is listed.
 | Dendrocopos major | [Great spotted woodpecker](https://en.wikipedia.org/wiki/Great_spotted_woodpecker) |  [Flaggspett](https://no.wikipedia.org/wiki/Flaggspett) |
 | Jynx torquilla | [Eurasian wryneck](https://en.wikipedia.org/wiki/Eurasian_wryneck) |  [Vendehals](https://no.wikipedia.org/wiki/Vendehals) |
 
-
 ### Warblers (3)
 
 | Latin      | UK  | Norwegian |
@@ -195,7 +179,6 @@ On this page, a comprehensive list of all birds is listed.
 | Phylloscopus trochilus | [Willow warbler](https://en.wikipedia.org/wiki/Willow_warbler) |  [Løvsanger ](https://no.wikipedia.org/wiki/Løvsanger) |
 | Phylloscopus sibilatrix | [Wood warbler](https://en.wikipedia.org/wiki/Wood_warbler) |  [Bøksanger ](https://no.wikipedia.org/wiki/Bøksanger) |
 | Sylvia atricapilla | [Eurasian blackcap](https://en.wikipedia.org/wiki/Eurasian_blackcap) |  [Munk ](https://no.wikipedia.org/wiki/Munk_(fugl)) |
-
 
 ### Finches (4)
 
@@ -206,7 +189,6 @@ On this page, a comprehensive list of all birds is listed.
 | Chloris chloris | [European greenfinch](https://en.wikipedia.org/wiki/European_greenfinch) |  [Grønnfink](https://no.wikipedia.org/wiki/Grønnfink) |
 | Pinicola enucleator | [Pine grosbeak](https://en.wikipedia.org/wiki/Pine_grosbeak) |  [Konglebit](https://no.wikipedia.org/wiki/Konglebit) |
 
-
 ### Grebes (2)
 
 | Latin      | UK | Norwegian |
@@ -214,13 +196,11 @@ On this page, a comprehensive list of all birds is listed.
 | Podiceps cristatus  | [Great crested grebe](https://en.wikipedia.org/wiki/Great_crested_grebe) | [Toppdykker](https://no.wikipedia.org/wiki/Toppdykker) |
 | Podiceps auritus  | [Horned grebe](https://en.wikipedia.org/wiki/Horned_grebe) | [Horndykker](https://no.wikipedia.org/wiki/Horndykker) |
 
-
 ### Ptarmigan (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Lagopus lagopus | [Willow ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) |  [Lirype](https://no.wikipedia.org/wiki/Lirype) |
-
 
 ### Tits (4)
 
@@ -231,7 +211,6 @@ On this page, a comprehensive list of all birds is listed.
 | Sitta europaea | [Eurasian nuthatch](https://en.wikipedia.org/wiki/Eurasian_nuthatch) |  [Spettmeis](https://no.wikipedia.org/wiki/Spettmeis) |
 | Emberiza citrinella | [Yellowhammer](https://en.wikipedia.org/wiki/Yellowhammer) |  [Gulspurv](https://no.wikipedia.org/wiki/Gulspurv) |
 
-
 ### Jays (2)
 
 | Latin      | UK | Norwegian |
@@ -239,20 +218,17 @@ On this page, a comprehensive list of all birds is listed.
 | Perisoreus infaustus | [Siberian jay](https://en.wikipedia.org/wiki/Siberian_jay) |  [Lavskrike](https://no.wikipedia.org/wiki/Lavskrike) |
 | Luscinia svecica | [Eurasian jay](https://en.wikipedia.org/wiki/Eurasian_jay) |  [Nøtteskrike](https://no.wikipedia.org/wiki/Nøtteskrike) |
 
-
 ### Crane (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Grus grus | [Common crane](https://en.wikipedia.org/wiki/Common_crane) |  [Trane](https://no.wikipedia.org/wiki/Trane) |
 
-
 ### Swallows (1)
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Hirundo rustica | [Barn swallow](https://en.wikipedia.org/wiki/Barn_swallow) |  [Låvesvale](https://no.wikipedia.org/wiki/Låvesvale) |
-
 
 ### Animals (7)
 

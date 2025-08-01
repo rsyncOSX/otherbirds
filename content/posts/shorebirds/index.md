@@ -8,7 +8,7 @@ tags = ["shorebird", "waders"]
 Shorebirds or waders. The Black-tailed godwit is critical threatened in Norway. According to the documentation,
 there are only a few hundred couples in Norway.
 
-
+<!--more-->
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |

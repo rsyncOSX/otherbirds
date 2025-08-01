@@ -5,7 +5,10 @@ date = "2024-04-20"
 tags = ["moose", "hare", "deer", "fox", "squirrel"]
 categories = ["animal"]
 +++
+
 Moose, Mountain hare,  Roe deer with cubs, Red deer, Red fox, Red squirrel.
+
+<!--more-->
 
 | Latin     | UK | Norwegian |
 | --------- |  --------- |    --------- |

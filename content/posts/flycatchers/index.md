@@ -7,6 +7,8 @@ tags = ["flycatcher"]
 
 The Common redstart is, in my opinion, one the most beautiful small birds in Norway.
 
+<!--more-->
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Phoenicurus phoenicurus | [Common redstart](https://en.wikipedia.org/wiki/Common_redstart) |  [Rødstjert](https://no.wikipedia.org/wiki/Rødstjert) |

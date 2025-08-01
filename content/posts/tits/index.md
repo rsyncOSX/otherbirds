@@ -7,6 +7,7 @@ tags = ["tit"]
 
 Eurasian nuthatch, Eurasian blue tit,  Long-tailed tit and yellowhammer.
 
+<!--more-->
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |

@@ -7,6 +7,8 @@ tags = ["divers","smew","merganser","loon","goldeneye"]
 
 A few diving ducks. The Smew is red listet. The photo of Smew is a female, a beautiful bird.
 
+<!--more-->
+
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |
 | Mergellus albellus  |  [Smew](https://en.wikipedia.org/wiki/Smew) | [Lappfiskand](https://no.wikipedia.org/wiki/Lappfiskand) |
