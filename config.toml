@@ -1,0 +1,45 @@
+baseURL = "https://otherbirds.netlify.app/"
+title = "Other Birds"
+
+defaultContentLanguage = "en"
+languageCode = "en"
+copyright = "Thomas Evensen"
+enableRobotsTXT = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[params]
+  description = "Wildlife photography by Thomas Evensen"
+  defaultTheme = "dark"
+  title = "Other Birds"
+
+  [params.author]
+    name = "Thomas Evensen"
+    email = "thomeven@gmail.com"
+
+  [params.socialIcons]
+    email = "mailto:thomeven@gmail.com"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 85
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[menu]
+  [[menu.main]]
+    name = "All Birds"
+    url = "/posts/allbirds/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3

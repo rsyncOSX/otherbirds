@@ -1,0 +1,21 @@
++++
+author = "Thomas Evensen"
+title = "Cormorant"
+date = "2024-04-28"
+tags = ["cormorant","seabird"]
++++
+
+Cormorant.
+
+<!--more-->
+
+| Latin      | UK | Norwegian |
+| --------- |  --------- |    --------- |
+| Phalacrocorax carbo | [Great Cormorant](https://en.wikipedia.org/wiki/Great_cormorant) | [Storskarv](https://no.wikipedia.org/wiki/Storskarv) |
+| Gulosus aristotelis | [European shag](https://en.wikipedia.org/wiki/European_shag) | [Toppskarv](https://no.wikipedia.org/wiki/Toppskarv) |
+
+### Great cormorant
+
+
+### European shag
+
