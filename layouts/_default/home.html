@@ -1,0 +1,11 @@
+{{ define "main" }}
+  {{ partial "title.html" . }}
+  {{ partial "categories.html" }}
+  {{ partial "featured.html" . }}
+  <section class="galleries">
+    {{ $posts := site.GetPage "posts" }}
+    {{ range where $posts.Pages "Params.private" "ne" true }}
+      {{ partial "album-card.html" . }}
+    {{ end }}
+  </section>
+{{ end }}

@@ -1,3 +1,3 @@
 ---
-title: Other Birds
+title: Photo Galleries
 ---
