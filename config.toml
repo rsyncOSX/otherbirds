@@ -1,14 +1,11 @@
 baseURL = "https://otherbirds.netlify.app/"
 title = "Other Birds"
+theme = "gallery"
 
 defaultContentLanguage = "en"
 languageCode = "en"
 copyright = "Thomas Evensen"
 enableRobotsTXT = true
-
-[module]
-  [[module.imports]]
-    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
 [params]
   description = "Wildlife photography by Thomas Evensen"
