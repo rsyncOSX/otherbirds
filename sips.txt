@@ -1,2 +1,0 @@
-sips -Z 160 *.jpg
-sips -Z 1920 *.jpg
