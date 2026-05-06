@@ -1,0 +1,14 @@
+{{ $images := .Resources.ByType "image" }}
+{{ if gt (len $images) 0 }}
+  {{ $gallery := partial "gallerydeluxe/init.html" (dict "images" $images "id" .RelPermalink) }}
+  <section class="gallery-section" aria-label="Photos">
+    <h2>Photos</h2>
+    <div id="gallerydeluxe" class="gallerydeluxe" data-gd-image-data-url="{{ $gallery.imageDataUrl }}"></div>
+    <div id="gd-modal" class="gd-modal">
+      <span id="gd-modal-close" class="gd-modal-close" aria-label="Close">&times;</span>
+      {{ if site.Params.gallerydeluxe.enable_exif }}
+        <div id="gd-modal-exif" class="gd-modal-exif"></div>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

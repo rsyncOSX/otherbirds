@@ -1,5 +1,5 @@
-module otherbirds
+module github.com/rsyncOSX/otherbirds
 
-go 1.26.1
+go 1.24
 
-require github.com/nicokaiser/hugo-theme-gallery/v4 v4.9.3 // indirect
+require github.com/bep/gallerydeluxe v0.15.0 // indirect

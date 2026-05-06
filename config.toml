@@ -1,42 +1,66 @@
-baseURL = "https://otherbirds.netlify.app/"
 title = "Other Birds"
-theme = "gallery"
+baseURL = "https://otherbirds.netlify.app/"
 
 defaultContentLanguage = "en"
-languageCode = "en"
-copyright = "Thomas Evensen"
+locale = "en"
 enableRobotsTXT = true
+enableEmoji = true
+timeout = "120s"
+copyright = "Thomas Evensen - all photos are copyrighted by law"
 
 [params]
-  description = "Wildlife photography by Thomas Evensen"
   defaultTheme = "dark"
+  description = "Wildlife photography by Thomas Evensen"
   title = "Other Birds"
-
   [params.author]
     name = "Thomas Evensen"
     email = "thomeven@gmail.com"
-
   [params.socialIcons]
     email = "mailto:thomeven@gmail.com"
+  [params.gallerydeluxe]
+    shuffle = false
+    reverse = false
+    enable_exif = false
 
 [outputs]
   home = ["HTML", "RSS"]
   page = ["HTML"]
   section = ["HTML"]
 
+[build]
+  [[build.cacheBusters]]
+    source = 'content/.*\.(png|jpg|jpeg)'
+    target = '(json)'
+  [[build.cacheBusters]]
+    source = 'layouts/.*'
+    target = '(json)'
+
 [imaging]
-  quality = 85
+  quality = 82
   resampleFilter = "CatmullRom"
   [imaging.exif]
+    disableDate = false
     disableLatLong = true
-    includeFields = "ImageDescription|Orientation"
+    includeFields = 'Artist|LensModel|FNumber|ExposureTime|ISOSpeedRatings|FocalLength'
+
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.imports]]
+    path = "github.com/bep/gallerydeluxe"
 
 [menu]
-  [[menu.main]]
-    name = "All Birds"
-    url = "/posts/allbirds/"
-    weight = 2
-  [[menu.main]]
+  [[menu.footer]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 1

@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ $galleries := slice }}
+  {{ range site.RegularPages }}
+    {{ if gt (len (.Resources.ByType "image")) 0 }}
+      {{ $galleries = $galleries | append . }}
+    {{ end }}
+  {{ end }}
+  <section class="home-intro">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description | default site.Params.description }}
+      <p>{{ . }}</p>
+    {{ end }}
+    {{ with .Content }}
+      <div class="content">{{ . }}</div>
+    {{ end }}
+  </section>
+
+  <section class="album-grid" aria-label="Photo galleries">
+    {{ range sort $galleries "Title" }}
+      {{ partial "album-card.html" . }}
+    {{ end }}
+  </section>
+{{ end }}

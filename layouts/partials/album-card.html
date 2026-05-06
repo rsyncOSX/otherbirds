@@ -1,0 +1,22 @@
+{{ $images := .Resources.ByType "image" }}
+{{ $cover := "" }}
+{{ with .Params.featured_image }}
+  {{ $cover = $.Resources.GetMatch . }}
+{{ end }}
+{{ if not $cover }}
+  {{ $cover = index $images 0 }}
+{{ end }}
+<article class="album-card">
+  <a href="{{ .RelPermalink }}" aria-label="Open {{ .Title }}">
+    {{ with $cover }}
+      {{ $thumb := .Fill "900x620 smart" }}
+      <img src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="">
+    {{ end }}
+    <span class="album-card-text">
+      <span class="album-card-title">{{ .Title }}</span>
+      {{ with .Description }}
+        <span class="album-card-description">{{ . }}</span>
+      {{ end }}
+    </span>
+  </a>
+</article>

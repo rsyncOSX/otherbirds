@@ -46,6 +46,6 @@ I'm quite new to shooting video. The Sony footage is captured at 100 frames per 
 
 # About this site
 
-Hugo, a static site generator, builds these pages. The Hugo theme is [hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery), an open-source project hosted on GitHub. Netlify automatically detects changes to the main branch and rebuilds the server in seconds.
+Hugo, a static site generator, builds these pages. The gallery is built with [Gallery Deluxe](https://github.com/bep/gallerydeluxe), an open-source project hosted on GitHub. Netlify automatically detects changes to the main branch and rebuilds the server in seconds.
 
 I also maintain a second website for [birdsofprey](https://birdsofprey.netlify.app).

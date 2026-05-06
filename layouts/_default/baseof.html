@@ -1,0 +1,46 @@
+{{ $images := .Resources.ByType "image" }}
+{{ $hasGallery := gt (len $images) 0 }}
+<!doctype html>
+<html lang="{{ site.Language.Lang | default "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+    {{ with .Description | default site.Params.description }}
+      <meta name="description" content="{{ . }}">
+    {{ end }}
+    {{ with resources.Get "css/site.css" }}
+      {{ $styles := . }}
+      {{ if hugo.IsProduction }}
+        {{ $styles = $styles | minify | fingerprint }}
+      {{ end }}
+      <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+    {{ end }}
+    {{ if $hasGallery }}
+      {{ partial "gallerydeluxe/head.html" . }}
+    {{ end }}
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-title" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="{{ site.Home.RelPermalink }}">Galleries</a>
+        {{ with site.GetPage "allbirds" }}
+          <a href="{{ .RelPermalink }}">All birds</a>
+        {{ end }}
+        {{ with site.GetPage "about" }}
+          <a href="{{ .RelPermalink }}">About</a>
+        {{ end }}
+      </nav>
+    </header>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="site-footer">
+      <p>{{ site.Copyright }}</p>
+      {{ with site.Params.socialIcons.email }}
+        <a href="{{ . }}">Email</a>
+      {{ end }}
+    </footer>
+  </body>
+</html>
