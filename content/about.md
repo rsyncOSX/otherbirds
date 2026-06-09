@@ -32,7 +32,8 @@ From a young age, I've had a deep love for nature. Photography has been another 
 
 For the past 6-7 years, I've only used Sony gear. My Sony gear includes:
 
-- Sony full-frame A1 mkii camera body
+- Sony A1 mkii full frame camera body
+- Sony A7RVI full frame camera body
 - Sony FE 600mm F4.0 GM OSS lens
 - Sony FE 300mm F2.8 GM OSS lens
 
@@ -48,4 +49,4 @@ I'm quite new to shooting video. The Sony footage is captured at 100 frames per 
 
 Hugo, a static site generator, builds these pages. The gallery is built with [Gallery Deluxe](https://github.com/bep/gallerydeluxe), an open-source project hosted on GitHub. Netlify automatically detects changes to the main branch and rebuilds the server in seconds.
 
-I also maintain a second website for [birdsofprey](https://birdsofprey.netlify.app).
+I also maintain a second website for [other bird species](https://otherbirds.netlify.app).
