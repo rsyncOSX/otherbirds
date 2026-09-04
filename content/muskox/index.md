@@ -10,14 +10,10 @@ All photos of the muskox were taken in Dovre, Norway, one of the few places in t
 
 <!--more-->
 
-All but two photos of Muskox are of bulls, some young, about 3 years old, and some old bulls. The cub is about 5-6 months old. The last
-photo is of a cow. You may see the difference in their horns. Old bull's horns cover most of the forehead. On young bulls, their horns
-are not yet grown together. And the horns on cows do not grow together at all.
-Walking with a guide to a photo Muskox is advised. The safety distance is 200 m, and if you get too close to the muskox, they might charge you.
+Most of the photos show bulls, ranging from young animals about three years old to mature bulls. The calf is about five or six months old, and the final photo shows a cow. Their horns help distinguish them: an old bull's horns form a broad boss across most of the forehead, while those of young bulls have not yet grown together and those of cows remain separated.
 
-The Muskox is not afraid of anything, they are very quick and you *don´t want* to be charged by it.
+Visitors should use a guide and keep the recommended safety distance of at least 200 m. Muskoxen are powerful, surprisingly fast animals and may charge if approached too closely.
 
-|   Latin  | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Ovibos moschatus | [Muskox](https://en.wikipedia.org/wiki/Muskox) | [Moskusfe](https://no.wikipedia.org/wiki/Moskusfe) |
-
+| Scientific name | English | Norwegian | Family |
+| --- | --- | --- | --- |
+| Ovibos moschatus | [Muskox](https://en.wikipedia.org/wiki/Muskox) | [Moskusfe](https://no.wikipedia.org/wiki/Moskusfe) | Bovidae |

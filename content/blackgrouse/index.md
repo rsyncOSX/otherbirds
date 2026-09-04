@@ -6,15 +6,14 @@ tags = ["grouse"]
 categories = ["grouse"]
 +++
 
-Photos of Black Grouse is taken close to my cabin in the mountains. 
+These photos of Black grouse were taken close to my cabin in the mountains.
 
 <!--more-->
 
 
-| Latin                 | UK                                                                     | Norwegian                                              |
-|-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
-| Lyrurus tetrix        | [Black Grouse](https://en.wikipedia.org/wiki/Black_grouse)             | [Orrfugl](https://no.wikipedia.org/wiki/Orrfugl)        |
-
+| Scientific name | English | Norwegian | Family |
+| --- | --- | --- | --- |
+| Lyrurus tetrix | [Black grouse](https://en.wikipedia.org/wiki/Black_grouse) | [Orrfugl](https://no.wikipedia.org/wiki/Orrfugl) | Phasianidae |
 
 
 

@@ -5,11 +5,10 @@ date = "2024-04-21"
 tags = ["willow ptarmigan"]
 +++
 
-Some Willow Ptarmigan
+Willow ptarmigan are grouse of birch woodland, heath and tundra; their plumage turns largely white in winter.
 
 <!--more-->
 
-| Latin      | UK | Norwegian |
-| --------- |  --------- |    --------- |
-| Lagopus lagopus | [Willow ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) |  [Lirype](https://no.wikipedia.org/wiki/Lirype) |
-
+| Scientific name | English | Norwegian | Family |
+| --- | --- | --- | --- |
+| Lagopus lagopus | [Willow ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) | [Lirype](https://no.wikipedia.org/wiki/Lirype) | Phasianidae |

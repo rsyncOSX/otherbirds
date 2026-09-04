@@ -6,12 +6,11 @@ tags = ["grouse"]
 categories = ["grouse"]
 +++
 
-Photos of the Wood Grouse is taken close to Elverum (Deset, Rena) in South Norway.
+These photos of Western capercaillie were taken near Deset and Rena, close to Elverum in southern Norway.
 
 <!--more-->
 
-| Latin                 | UK                                                                     | Norwegian                                              |
-|-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
-| Tetrao urogallus        | [Wood Grouse](https://en.wikipedia.org/wiki/Western_capercaillie)  | [Tiur, storfugl](https://no.wikipedia.org/wiki/Storfugl)        |
-
+| Scientific name | English | Norwegian | Family |
+| --- | --- | --- | --- |
+| Tetrao urogallus | [Western capercaillie](https://en.wikipedia.org/wiki/Western_capercaillie) | [Storfugl](https://no.wikipedia.org/wiki/Storfugl) | Phasianidae |
 
