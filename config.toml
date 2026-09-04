@@ -20,6 +20,7 @@ copyright = "Thomas Evensen - all photos are copyrighted by law"
   [params.gallerydeluxe]
     shuffle = false
     reverse = false
+    # Keep disabled: the gallery currently exposes unfiltered camera metadata.
     enable_exif = false
 
 [outputs]

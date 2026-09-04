@@ -1,0 +1,43 @@
+{{- $description := .Description | default site.Params.description | plainify -}}
+{{- $images := .Resources.ByType "image" -}}
+{{- $socialImage := false -}}
+{{- with .Params.featured_image -}}
+  {{- $socialImage = $.Resources.GetMatch . -}}
+{{- end -}}
+{{- if and (not $socialImage) (gt (len $images) 0) -}}
+  {{- $socialImage = index $images 0 -}}
+{{- end -}}
+{{- if and .IsHome (not $socialImage) -}}
+  {{- range sort site.RegularPages "Title" -}}
+    {{- if not $socialImage -}}
+      {{- $page := . -}}
+      {{- $pageImages := .Resources.ByType "image" -}}
+      {{- with .Params.featured_image -}}
+        {{- $socialImage = $page.Resources.GetMatch . -}}
+      {{- end -}}
+      {{- if and (not $socialImage) (gt (len $pageImages) 0) -}}
+        {{- $socialImage = index $pageImages 0 -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+{{- with $socialImage }}
+  {{- $preview := .Fill "1200x630 smart q82" -}}
+<meta property="og:image" content="{{ $preview.Permalink }}">
+<meta property="og:image:width" content="{{ $preview.Width }}">
+<meta property="og:image:height" content="{{ $preview.Height }}">
+<meta property="og:image:alt" content="{{ $.Title }} photographed by {{ site.Params.author.name }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ $preview.Permalink }}">
+<meta name="twitter:image:alt" content="{{ $.Title }} photographed by {{ site.Params.author.name }}">
+{{- else }}
+<meta name="twitter:card" content="summary">
+{{- end }}
+<meta name="twitter:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ $description }}">

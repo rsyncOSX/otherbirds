@@ -1,12 +1,29 @@
 {{ define "main" }}
-  <article class="page">
+  {{ $images := .Resources.ByType "image" }}
+  <article class="page page-intro">
     <header class="page-header">
       <h1>{{ .Title }}</h1>
       {{ with .Description }}<p>{{ . }}</p>{{ end }}
     </header>
-    {{ with .Content }}
-      <div class="content">{{ . }}</div>
+    {{ if gt (len $images) 0 }}
+      <nav class="page-jump" aria-label="On this page">
+        <a href="#photos">View photos</a>
+        {{ with .Content }}<a href="#story">Read the story</a>{{ end }}
+      </nav>
     {{ end }}
   </article>
-  {{ partial "gallerydeluxe-block.html" . }}
+  {{ if gt (len $images) 0 }}
+    {{ partial "gallerydeluxe-block.html" . }}
+  {{ end }}
+  {{ with .Content }}
+    <article class="page page-story"{{ if gt (len $images) 0 }} id="story"{{ end }}>
+      {{ if and (gt (len $images) 0) (strings.Contains $.TableOfContents "<li>") }}
+        <details class="page-toc">
+          <summary>In this story</summary>
+          {{ $.TableOfContents }}
+        </details>
+      {{ end }}
+      <div class="content">{{ . }}</div>
+    </article>
+  {{ end }}
 {{ end }}

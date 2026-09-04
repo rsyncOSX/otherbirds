@@ -99,6 +99,55 @@ main {
   margin-top: 1.75rem;
 }
 
+.page-intro {
+  padding-bottom: 1rem;
+}
+
+.page-jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.page-jump a {
+  padding: 0.45rem 0.8rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--text);
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.page-jump a:hover {
+  border-color: var(--accent);
+  color: var(--accent-soft);
+}
+
+.page-story {
+  padding-top: 2rem;
+  scroll-margin-top: 1rem;
+}
+
+.page-toc {
+  margin-bottom: 2rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.page-toc summary {
+  color: var(--accent-soft);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.page-toc nav ul {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
 .content h2,
 .content h3 {
   margin-top: 2.2rem;
@@ -178,6 +227,7 @@ main {
 
 .gallery-section {
   padding: 1rem 0 4rem;
+  scroll-margin-top: 1rem;
 }
 
 .gallery-section h2 {

@@ -9,6 +9,10 @@
     {{ with .Description | default site.Params.description }}
       <meta name="description" content="{{ . }}">
     {{ end }}
+    {{ partial "seo.html" . }}
+    {{ with .OutputFormats.Get "rss" }}
+      <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .Permalink }}">
+    {{ end }}
     {{ with resources.Get "css/site.css" }}
       {{ $styles := . }}
       {{ if hugo.IsProduction }}

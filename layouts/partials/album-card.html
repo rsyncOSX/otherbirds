@@ -10,7 +10,7 @@
   <a href="{{ .RelPermalink }}" aria-label="Open {{ .Title }}">
     {{ with $cover }}
       {{ $thumb := .Fill "900x620 smart" }}
-      <img src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="">
+      <img src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="{{ $.Params.featured_image_alt | default (printf "%s photographed by %s" $.Title site.Params.author.name) }}">
     {{ end }}
     <span class="album-card-text">
       <span class="album-card-title">{{ .Title }}</span>
